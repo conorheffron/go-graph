@@ -71,7 +71,7 @@ mutation addToDo3 {
 
 #### Muation (Add 'Learn GraphQL' to do)
 ```shell
-% curl -X POST -H "Content-Type: application/json" \
+curl -X POST -H "Content-Type: application/json" \
 -d '{"query": "mutation { createTodo(text: \"Learn GraphQL\") { id text done } }"}' \
 http://localhost:8080/query
 ```
@@ -82,7 +82,7 @@ http://localhost:8080/query
 
 #### Muation (Add 'Shopping' to do)                                               
 ```shell
-% curl -X POST -H "Content-Type: application/json" \
+curl -X POST -H "Content-Type: application/json" \
 -d '{"query": "mutation { createTodo(text: \"Shopping\") { id text done } }"}' \
 http://localhost:8080/query
 ```
@@ -93,7 +93,7 @@ http://localhost:8080/query
 
 #### Query (Get TODOs list)  
 ```shell
-% curl -X POST -H "Content-Type: application/json" \
+curl -X POST -H "Content-Type: application/json" \
 -d '{"query": "query { todos { id text done } }"}' \                            
 http://localhost:8080/query
 ```
