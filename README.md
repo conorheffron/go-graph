@@ -5,7 +5,7 @@
 ## Overview
  - Track to do items with Go & GraphQL.
 
- ### Quick start build steps
+### Quick start build steps
  ```shell
 go install github.com/99designs/gqlgen@latest
 
