@@ -1,5 +1,7 @@
 # go-graph
 
+[![Go](https://github.com/conorheffron/go-graph/actions/workflows/go.yml/badge.svg)](https://github.com/conorheffron/go-graph/actions/workflows/go.yml)
+
 ## Overview
  - Track to do items with Go & GraphQL.
 
