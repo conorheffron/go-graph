@@ -1,5 +1,7 @@
 # go-graph
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 [![Go](https://github.com/conorheffron/go-graph/actions/workflows/go.yml/badge.svg)](https://github.com/conorheffron/go-graph/actions/workflows/go.yml)
 
 ## Overview
