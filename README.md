@@ -13,7 +13,7 @@ go install github.com/99designs/gqlgen@latest
 
 go mod init go-graph
 
-go get github.com/99designs/gqlgen@v0.17.81
+go get github.com/99designs/gqlgen@v0.17.84
 
 go run github.com/99designs/gqlgen init
 
